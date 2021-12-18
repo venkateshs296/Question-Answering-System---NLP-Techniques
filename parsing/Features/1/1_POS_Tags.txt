@@ -1,0 +1,1 @@
+[('Who', 'WP'), ('mediated', 'VBD'), ('truce', 'NN'), ('Khomeini', 'NNP'), ('?', '.')]

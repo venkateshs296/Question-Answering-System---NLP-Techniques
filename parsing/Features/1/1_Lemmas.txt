@@ -1,0 +1,1 @@
+{'Who': 'Who', 'mediated': 'mediated', 'truce': 'truce', 'Khomeini': 'Khomeini', '?': '?'}

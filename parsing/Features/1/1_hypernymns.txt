@@ -1,0 +1,1 @@
+{'Who': ['United_Nations_agency', 'UN_agency'], 'mediated': ['negociate', 'negotiate', 'talk_terms', 'lie'], 'truce': ['peace'], 'Khomeini': [], '?': []}

@@ -1,0 +1,1 @@
+{'Who': ['World_Health_Organization', 'WHO'], 'mediated': ['intercede', 'mediate', 'intermediate', 'liaise', 'arbitrate', 'mediate', 'mediated'], 'truce': ['armistice', 'cease-fire', 'truce'], 'Khomeini': ['Khomeini', 'Ruholla_Khomeini', 'Ayatollah_Khomeini', 'Ayatollah_Ruholla_Khomeini'], '?': []}

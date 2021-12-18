@@ -1,0 +1,1 @@
+[['nsubj', 'mediated', 'Who'], ['ROOT', 'mediated', 'mediated'], ['det', 'truce', 'the'], ['dobj', 'mediated', 'truce'], ['prep', 'mediated', 'with'], ['pobj', 'with', 'Khomeini'], ['punct', 'mediated', '?']]
