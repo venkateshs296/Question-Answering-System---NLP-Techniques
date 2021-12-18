@@ -1,0 +1,270 @@
+{Iran: 'GPE', Persian: 'NORP', Persia: 'GPE', the Islamic Republic of Iran: 'GPE', Jomhuri ye: 'PERSON', Western Asia: 'LOC'}
+{Armenia: 'GPE', Nagorno-Karabakh Republic: 'ORG', Azerbaijan: 'GPE', Kazakhstan: 'GPE', Russia: 'GPE', the Caspian Sea: 'LOC', Turkmenistan: 'GPE', Afghanistan: 'GPE', Pakistan: 'GPE', the Persian Gulf: 'LOC', the Gulf of Oman: 'LOC', Turkey: 'GPE', Iraq: 'GPE'}
+{1,648,195: 'CARDINAL', 636,372: 'CARDINAL', second: 'ORDINAL', the Middle East: 'LOC', 18th: 'ORDINAL'}
+{78.4 million: 'CARDINAL', Iran: 'GPE', 17th: 'ORDINAL'}
+{a Caspian Sea: 'LOC', Indian Ocean: 'LOC'}
+{Iran: 'GPE', Eurasia: 'GPE', Western Asia: 'LOC', the Strait of Hormuz: 'LOC'}
+{Iran: 'GPE', 32002800: 'CARDINAL', BC: 'ORG'}
+{Iranian: 'NORP', first: 'ORDINAL', 625: 'CARDINAL', BC: 'ORG'}
+{Iran: 'GPE', Achaemenid Empire: 'PERSON', 550: 'CARDINAL', BC: 'ORG', Balkans: 'LOC', Bulgaria: 'GPE', Paeonia: 'GPE', Eastern Europe: 'LOC', the Indus Valley: 'LOC'}
+{330: 'CARDINAL', BC: 'ORG'}
+{the Sassanid Dynasty: 'ORG', 224: 'CARDINAL', Iran: 'GPE', the Roman-Byzantine Empire: 'ORG', more than four centuries: 'DATE'}
+{633 AD: 'DATE', Rashidun Arabs: 'PERSON', Iran: 'GPE', 651 AD: 'DATE', Iranian: 'NORP', Manichaeism: 'NORP', Zoroastrianism: 'NORP', Sunni: 'NORP'}
+{Arabic: 'NORP', Persian: 'NORP', Persian: 'NORP'}
+{Iran: 'GPE', the Islamic Golden Age: 'ORG'}
+{1501: 'DATE', Iranian: 'NORP', Sunni: 'NORP', Twelver Shia Islam: 'GPE', Shia: 'NORP', Islam: 'NORP', Iran: 'GPE'}
+{Safavid: 'NORP', Iran: 'GPE', Shiism: 'NORP', Iranian: 'NORP', Muslim: 'NORP'}
+{1736: 'DATE', Nader Shah: 'PERSON', Iran: 'GPE', the Sassanid Empire: 'ORG'}
+{the 19th century: 'DATE', Iran: 'GPE', Iran: 'GPE', Imperial Russia: 'ORG'}
+{the Persian Constitutional Revolution of 1906: 'FAC'}
+{U.K.: 'GPE', U.S.: 'GPE', 1953: 'DATE', Iran: 'GPE', the United States: 'GPE', West: 'LOC'}
+{the 1979 Revolution: 'DATE', Islamic: 'NORP', 1 April 1979: 'DATE'}
+{Tehran: 'GPE'}
+{Iran: 'GPE', fourth: 'ORDINAL'}
+{Iran: 'GPE', 19: 'CARDINAL', UNESCO World Heritage Sites: 'ORG', fourth: 'ORDINAL', Asia: 'LOC', 12th: 'ORDINAL'}
+{Iran: 'GPE', Middle Persian: 'NORP', first: 'ORDINAL', 3rd-century: 'DATE', Rustam Relief: 'ORG', Parthian: 'NORP', Aryn: 'ORG', Iranians: 'NORP'}
+{The Middle Iranian: 'NORP', Middle Persian: 'NORP', Parthian: 'NORP', Proto-Iranian: 'NORP', Aryan: 'NORP', Iranians: 'NORP', Proto-Indo-European *ar-yo-: 'ORG'}
+{Iranian: 'NORP', Iranian: 'NORP', Alans: 'NORP', Iron (Ossetic:   Iron: 'ORG'}
+{Iran: 'GPE', Persia: 'GPE', West: 'LOC', Greek: 'NORP', Iran Persis: 'ORG', Persians: 'NORP'}
+{the Ancient Greeks: 'LAW', Persians: 'NORP', Persian: 'NORP', Greece: 'GPE'}
+{Persian: 'NORP', Persian: 'NORP', Persians: 'NORP', Lake Urmia: 'GPE', the 9th century: 'DATE', BC: 'ORG'}
+{the Zagros Mountains: 'LOC', today: 'DATE', Fars Province: 'GPE'}
+{1935: 'DATE', Reza Shah: 'PERSON', Iran: 'GPE'}
+{the New York Times: 'ORG', the Persian Legation: 'LOC', Berlin: 'GPE', Tehran: 'GPE', New Year: 'EVENT', Nowruz: 'GPE', March 21, 1935: 'DATE', Iran: 'GPE', Persia: 'GPE'}
+{Ehsan Yarshater: 'PERSON', Encyclopdia Iranica: 'ORG', Persia: 'GPE', Iran: 'GPE'}
+{Today: 'DATE', Persia: 'GPE', Iran: 'GPE', Iran: 'GPE'}
+{Iran: 'GPE', Iran: 'GPE', 800,000200,000: 'CARDINAL', BC: 'ORG'}
+{Iran: 'GPE', Neanderthal: 'NORP', the Middle Paleolithic: 'LOC', 200,00040,000: 'CARDINAL', BC: 'ORG', the Zagros region: 'LOC', Warwasi: 'PERSON', Yafteh Cave: 'PERSON'}
+{8th: 'ORDINAL', BC: 'ORG', Chogha Golan: 'ORG', Chogha Bonut: 'LOC', Iran: 'GPE', Susa: 'PERSON', the Zagros region: 'LOC'}
+{Susa: 'ORG', early 4,395: 'CARDINAL', BC: 'ORG'}
+{dozens: 'CARDINAL', Iranian: 'NORP', 4th: 'ORDINAL', BC: 'ORG'}
+{the Bronze Age: 'ORG', Iran: 'GPE', Elam: 'PERSON', Zayande River: 'LOC'}
+{Elam: 'PERSON', Iran: 'GPE', Mesopotamia: 'GPE'}
+{Elam: 'PERSON', the 3rd millennium: 'DATE', BC: 'ORG'}
+{the late 10th to late 7th centuries: 'DATE', BC: 'ORG', Iranian: 'NORP', pre-Iranian: 'NORP', the Assyrian Empire: 'GPE', Mesopotamia: 'LOC'}
+{Cyaxares: 'ORG', Medes: 'ORG', Persians: 'NORP', Nabopolassar of Babylon: 'ORG', Scythians: 'NORP', Cimmerians: 'NORP', the Assyrian Empire: 'GPE'}
+{the Assyrian Empire: 'GPE', between 616: 'CARDINAL', BC: 'ORG', 605: 'CARDINAL', BC: 'ORG', three centuries: 'DATE', Assyrian: 'NORP'}
+{Median: 'NORP', 728: 'CARDINAL', BC: 'ORG', 612: 'CARDINAL', BC: 'ORG', Iran: 'GPE'}
+{the Kingdom of Urartu: 'GPE'}
+{550: 'CARDINAL', BC: 'ORG', the Median Empire: 'GPE'}
+{Media: 'ORG', the Persian Revolt: 'ORG'}
+{Median: 'NORP', Astyages: 'PERSON', Persians: 'NORP'}
+{Cyrus: 'PERSON', Lydia: 'ORG', Babylon: 'GPE', Egypt: 'GPE', Balkans: 'LOC', Eastern Europe: 'LOC', Indus: 'ORG', Oxus: 'PERSON'}
+{the Achaemenid Empire: 'ORG', Iran: 'GPE', Azerbaijan: 'GPE', Armenia: 'GPE', Georgia: 'GPE', Turkey: 'GPE', Black Sea: 'LOC', Greece: 'GPE', Bulgaria: 'GPE', Greece: 'GPE', Macedonia: 'GPE', Paeonia: 'GPE', Ancient Macedon: 'PERSON', Iraq: 'GPE', Syria: 'GPE', Lebanon: 'GPE', Jordan: 'GPE', Israel: 'GPE', Palestine: 'GPE', Egypt: 'GPE', Libya: 'GPE', Kuwait: 'GPE', Saudi Arabia: 'GPE', UAE: 'GPE', Oman: 'GPE', Pakistan: 'GPE', Afghanistan: 'GPE', Central Asia: 'LOC'}
+{480: 'CARDINAL', BC: 'ORG', 50 million: 'CARDINAL', the Achaemenid Empire: 'GPE'}
+{over 44%: 'PERCENT'}
+{Greek: 'NORP', the Achaemenid Empire: 'ORG', Jewish: 'NORP', Babylon: 'ORG', the Imperial Aramaic: 'ORG'}
+{}
+{Seven: 'CARDINAL', the Ancient World: 'ORG', between 353 and 350: 'CARDINAL', BC: 'ORG'}
+{334: 'CARDINAL', BC: 'ORG', Alexander the Great: 'PERSON', Achaemenid: 'PERSON', Darius III: 'PERSON', the Battle of Issus: 'EVENT'}
+{Alexander: 'GPE', Iran: 'GPE', the Hellenistic Seleucid Empire: 'ORG'}
+{the middle of the 2nd century: 'DATE', BC: 'ORG', the Parthian Empire: 'GPE', Iran: 'GPE', century-long: 'DATE', Romans: 'NORP', Parthians: 'NORP', the RomanParthian Wars: 'LOC'}
+{nearly five centuries: 'DATE', 224: 'CARDINAL', the Sassanid Empire: 'ORG'}
+{Roman-Byzantines: 'NORP', two: 'CARDINAL', four centuries: 'DATE'}
+{602: 'CARDINAL', the Sassanid Empire: 'ORG', Arab: 'NORP', Iran: 'GPE', the 7th century: 'DATE'}
+{the Arab Rashidun Caliphate: 'ORG', Iran: 'GPE', Arab: 'NORP', Umayyad and Abbasid: 'ORG'}
+{Islamization: 'NORP', Iran: 'GPE'}
+{Arab: 'NORP', Rashidun: 'PERSON', Umayyad: 'ORG', mawali: 'ORG', Iranians: 'NORP', Jizya: 'PRODUCT'}
+{Gunde Shapur: 'PERSON', the Academy of Gunde Shapur: 'ORG', Islamic: 'NORP'}
+{Iran: 'GPE', Iranian: 'NORP', the Islamic Golden Age: 'ORG'}
+{The Islamic Golden Age: 'ORG', the 10th and 11th centuries: 'DATE', Iran: 'GPE'}
+{the 10th century: 'DATE', Persian: 'LANGUAGE', Arabic: 'LANGUAGE', Iranian: 'NORP', Tusi: 'GPE', Avicenna: 'GPE', Qotb: 'GPE', Din Shirazi: 'PERSON', Biruni: 'PERSON'}
+{The 10th century: 'DATE', Turkic: 'ORG', Central Asia: 'LOC', the Iranian plateau: 'LOC'}
+{Turkic: 'ORG', first: 'ORDINAL', Abbasid: 'ORG', Iranian: 'NORP', Arab: 'NORP'}
+{}
+{999: 'CARDINAL', Iran: 'GPE', Ghaznavids: 'NORP', Turk: 'PERSON', the Turkish Seljuk: 'LAW', Khwarezmian: 'NORP'}
+{Turks: 'NORP', Persianized: 'PERSON', Persian: 'NORP'}
+{Seljuks: 'PERSON'}
+{Persian: 'NORP', Turkish: 'NORP', Turko-Persian: 'ORG'}
+{the Mongol Empire: 'GPE', 1256: 'DATE', Hulagu Khan: 'PERSON', Iran: 'GPE'}
+{1370: 'DATE', Timur: 'GPE', the Timurid Empire: 'ORG', another 156 years: 'DATE'}
+{1387: 'DATE', Timur: 'PERSON', Isfahan: 'NORP', 70,000: 'CARDINAL'}
+{Ilkhans: 'NORP', Timurids: 'NORP', Iranians: 'NORP', Iranian: 'NORP'}
+{the 1500s: 'DATE', Ismail: 'PERSON', Ardabil: 'ORG', the Safavid Dynasty: 'EVENT', Tabriz: 'PERSON'}
+{Azerbaijan: 'GPE', Iranian: 'NORP', Iranian: 'NORP', Iranian: 'NORP', the Greater Iran: 'LOC'}
+{Iran: 'GPE', Sunni: 'NORP', Ismail: 'PERSON', Shia: 'NORP', Islam: 'ORG', Shia: 'NORP', Islam: 'NORP', Safavid: 'NORP', Caucasus: 'GPE', Iran: 'GPE', Anatolia: 'GPE', Mesopotamia: 'LOC'}
+{Iran: 'GPE', Shia: 'NORP', Iran: 'GPE', the Republic of Azerbaijan: 'GPE', the 1st: 'DATE', 2nd: 'ORDINAL', Shia: 'NORP'}
+{centuries: 'DATE', Safavid: 'NORP', Iran: 'GPE', Ottoman Empire: 'GPE'}
+{Safavid: 'NORP', Abbas: 'PERSON', 15871629: 'DATE', Ottoman: 'NORP', Western Eurasia: 'LOC'}
+{Safavid: 'NORP', Caucasian: 'NORP', Iran: 'GPE', Iran: 'GPE', Iran: 'GPE', centuries: 'DATE'}
+{the late 1600s: 'DATE', early 1700s: 'DATE', Ottomans: 'NORP', Russian: 'NORP', Safavid: 'NORP', Pashtun: 'ORG', Isfahan: 'NORP', Soltan Hosein: 'PERSON', 1722: 'DATE'}
+{1729: 'DATE', Nader Shah: 'PERSON', Khorasan: 'PERSON', Pashtun: 'PRODUCT'}
+{Caucasian: 'NORP', Ottoman: 'NORP', Russian: 'NORP', Iran: 'GPE'}
+{Nader Shah: 'PERSON', Iran: 'GPE', the Sassanid Empire: 'ORG', Iranian: 'NORP', Asia: 'LOC'}
+{Karim Khan: 'GPE', 1779: 'DATE', Aqa Mohammad Khan: 'PERSON', the Qajar Dynasty: 'ORG', 1794: 'DATE'}
+{1795: 'DATE', Georgian: 'NORP', Russians: 'NORP', Qajars: 'PERSON', the Battle of Krtsanisi: 'ORG', Russians: 'NORP', Iranian: 'NORP'}
+{18041813: 'DATE', 18261828: 'DATE', Iran: 'GPE', Transcaucasia: 'GPE', Dagestan: 'GPE', Iran: 'GPE', Russian Empire: 'GPE'}
+{the 19th century: 'DATE', Russo-Persian: 'PERSON', Russians: 'NORP', Iran: 'GPE', modern-day: 'DATE', Dagestan: 'GPE', Georgia: 'GPE', Armenia: 'GPE', Azerbaijan: 'GPE', Gulistan: 'GPE', Turkmenchay: 'GPE'}
+{Aras: 'ORDINAL', Republic of Azerbaijan: 'ORG', Georgia: 'GPE', Dagestan: 'GPE', Armenia: 'GPE', Iranian: 'NORP', Russia: 'GPE', the 19th century: 'DATE'}
+{Between 1872 and 1905: 'DATE', Nasser: 'PERSON', Mozaffar: 'PERSON', Qajar: 'ORG', the Iranian Constitutional Revolution: 'ORG'}
+{first: 'ORDINAL', Iranian: 'NORP', first: 'ORDINAL', Iran: 'GPE', 1906: 'DATE'}
+{Constitution: 'LAW', Iran: 'GPE', three: 'CARDINAL', Christians: 'NORP', Zoroastrians: 'NORP', Jews: 'NORP', Iran: 'GPE'}
+{1911: 'DATE', Mohammad Ali Shah: 'PERSON'}
+{Russians: 'NORP', Northern Iran: 'LOC', 1911: 'DATE', years: 'DATE'}
+{World War I: 'EVENT', British: 'NORP', Western Iran: 'LOC', 1921: 'DATE'}
+{Persian: 'NORP', World War I: 'EVENT', Northwestern Iran: 'LOC', Ottoman: 'NORP', the Middle Eastern Theatre of World War I.: 'LOC'}
+{Ottoman: 'NORP', Assyrians: 'NORP', Iran: 'GPE', Ottoman: 'NORP', Urmia: 'FAC'}
+{Aqa Mohammad Khan: 'PERSON', Qajar: 'ORG'}
+{1941: 'DATE', Reza Shah: 'PERSON', Mohammad Reza Pahlavi: 'PERSON'}
+{Soviet: 'NORP', two: 'CARDINAL', the Azerbaijan People's Government: 'ORG', the Republic of Mahabad: 'GPE'}
+{the Soviet Union: 'GPE', Iranian: 'NORP', Iran: 'GPE', 1946: 'DATE', Soviets: 'NORP'}
+{1973: 'DATE', Iran: 'GPE'}
+{1974: 'DATE', Iran: 'GPE'}
+{1975: 'DATE', 1976: 'DATE', millions: 'CARDINAL', Iran: 'GPE', the boom years of the early 1970s: 'DATE'}
+{the late 1970s: 'DATE', Shah: 'ORG'}
+{1979: 'DATE', Kurdish: 'NORP', Khuzestan: 'GPE', Sistan: 'GPE', Baluchestan Province: 'GPE'}
+{the next several years: 'DATE', Islamic: 'NORP'}
+{non-Islamist: 'NORP'}
+{Marxists: 'NORP', Islamists: 'NORP', Shah: 'GPE', tens of thousands: 'CARDINAL', Islamic: 'NORP'}
+{November 4, 1979: 'DATE', the United States: 'GPE', 52: 'CARDINAL', the United States: 'GPE', Mohammad Reza Pahlavi: 'PERSON', Iran: 'GPE'}
+{Jimmy Carter: 'PERSON', Carter: 'PERSON', Ronald Reagan: 'PERSON'}
+{Jimmy Carter's: 'PERSON', the Algiers Accords: 'ORG'}
+{September 22, 1980: 'DATE', Iraqi: 'NORP', Iranian: 'NORP', Khuzestan: 'GPE', the IranIraq War: 'EVENT'}
+{Saddam Hussein: 'PERSON', mid 1982: 'DATE', Iranian: 'NORP', Iraqi: 'NORP', Iraq: 'GPE'}
+{July 1982: 'DATE', Iraq: 'GPE', Iran: 'GPE', Iraq: 'GPE', Iraqi: 'NORP', Basra: 'GPE'}
+{1988: 'DATE', Iraqi: 'NORP', Iranian: 'NORP', Iraq: 'GPE', Iranian: 'NORP'}
+{Khomeini: 'PERSON', UN: 'ORG'}
+{Iranian: 'NORP', 123,220160,000: 'CARDINAL', KIA: 'ORG', 60,711: 'CARDINAL', MIA: 'ORG', 11,00016,000: 'CARDINAL'}
+{Iran: 'GPE', 1,648,195: 'CARDINAL', 636,372: 'CARDINAL'}
+{Iran: 'GPE', 24: 'DATE', 44: 'CARDINAL', 64: 'CARDINAL', Azerbaijan: 'GPE', 611 km: 'QUANTITY', 380: 'CARDINAL', Azerbaijan-Naxcivan: 'ORG', 179 km: 'QUANTITY', 111: 'CARDINAL', Armenia: 'GPE', 35 km: 'QUANTITY', 22: 'CARDINAL', the Caspian Sea: 'LOC', Turkmenistan: 'GPE', 992 km: 'QUANTITY', 616: 'CARDINAL', Pakistan: 'GPE', 909 km: 'QUANTITY', 565: 'CARDINAL', Afghanistan: 'GPE', 936 km: 'QUANTITY', 582: 'CARDINAL', Turkey: 'GPE', 499 km: 'QUANTITY', 310: 'CARDINAL', Iraq: 'GPE', 1,458 km: 'QUANTITY', 906: 'CARDINAL', the Persian Gulf: 'LOC', the Gulf of Oman: 'LOC'}
+{Iran: 'GPE', the Iranian Plateau: 'LOC', the Caspian Sea: 'LOC', Khuzestan Province: 'GPE'}
+{}
+{Iran: 'GPE', Mount Damavand: 'LOC', 5,610 m: 'MONEY', 18,406: 'CARDINAL', Eurasian: 'NORP'}
+{Iran: 'GPE', Caspian: 'NORP'}
+{Caspian: 'NORP', the year: 'DATE'}
+{29: 'CARDINAL'}
+{Annual: 'DATE', 680 mm: 'QUANTITY', 26.8: 'CARDINAL', more than 1,700 mm: 'QUANTITY', 66.9: 'CARDINAL'}
+{United Nations Resident Coordinator: 'ORG', Iran: 'GPE', Gary Lewis: 'PERSON', Iran: 'GPE', today: 'DATE'}
+{the Zagros basin: 'LOC', winters: 'DATE', zero: 'CARDINAL', daily: 'DATE'}
+{less than 200 mm: 'QUANTITY', 7.9: 'CARDINAL'}
+{summer: 'DATE', 38: 'CARDINAL', 100.4: 'CARDINAL'}
+{the Persian Gulf: 'LOC', Iran: 'GPE', winters: 'DATE'}
+{annual: 'DATE', 135: 'CARDINAL', 355 mm: 'QUANTITY', 5.3 to 14.0: 'CARDINAL'}
+{At least 74: 'CARDINAL', Iranian: 'NORP', the International Union for the Conservation of Nature: 'ORG'}
+{The Iranian Parliament: 'ORG', the Ministry of Industries: 'ORG', Mines: 'ORG', the Department of Environment: 'ORG'}
+{Shiraz: 'PERSON', around 1.4 million: 'CARDINAL', sixth: 'ORDINAL', Iran: 'GPE'}
+{Fars Province: 'GPE', Iran: 'GPE'}
+{Babylonian: 'PERSON', Persians: 'NORP'}
+{Persians: 'NORP', the 9th century: 'DATE', BC: 'ORG', the Achaemenid Dynasty: 'ORG', the 6th century: 'DATE', BC: 'ORG'}
+{Persepolis: 'GPE', Pasargadae: 'GPE', two: 'CARDINAL', four: 'CARDINAL', the Achaemenid Empire: 'ORG', day: 'DATE', Shiraz: 'PERSON'}
+{the Islamic Republic: 'GPE', the 1979: 'DATE', Constitution: 'LAW'}
+{the Islamic Republic of Iran: 'GPE'}
+{}
+{six: 'CARDINAL', twelve: 'CARDINAL', the Guardian Council: 'ORG'}
+{The Assembly of Experts: 'ORG'}
+{Constitution: 'LAW'}
+{the Council of Ministers: 'ORG'}
+{Eight: 'CARDINAL', twenty-two: 'CARDINAL'}
+{The Guardian Council: 'ORG', twelve: 'CARDINAL', six: 'CARDINAL'}
+{the Iranian Parliament: 'ORG'}
+{Council: 'ORG', Parliament: 'ORG'}
+{Sharia: 'WORK_OF_ART', Islamic: 'NORP', Parliament: 'ORG'}
+{The Expediency Council: 'ORG', Parliament: 'ORG', the Guardian Council: 'ORG'}
+{four-year: 'DATE', Iran: 'GPE'}
+{The Special Clerical Court: 'ORG'}
+{The Special Clerical Court: 'ORG'}
+{Court: 'ORG'}
+{The Assembly of Experts: 'ORG', one week: 'DATE', annually: 'DATE', 86: 'CARDINAL', eight-year: 'DATE'}
+{Guardian Council: 'ORG'}
+{Assembly: 'ORG'}
+{}
+{2005: 'DATE', Iran: 'GPE', Iranian: 'NORP', Iran: 'GPE', Israel: 'GPE'}
+{Iran: 'GPE'}
+{the UN Security Council: 'ORG', Iran: 'GPE', Iran: 'GPE'}
+{2009: 'DATE', US: 'GPE', National Intelligence: 'ORG', Iran: 'GPE', 2013: 'DATE'}
+{Iran: 'GPE', IRGC: 'GPE', about 90,000: 'CARDINAL'}
+{Up to 11 million: 'CARDINAL', GlobalSecurity.org: 'ORG', Iran: 'GPE', up to one million: 'CARDINAL'}
+{}
+{2007: 'DATE', Iran: 'GPE', 2.6%: 'PERCENT', 102: 'MONEY', Persian Gulf: 'LOC'}
+{Iran: 'GPE'}
+{2014: 'DATE', $15 billion: 'MONEY', the Gulf Cooperation Council: 'ORG', 13: 'CARDINAL'}
+{the 1979 Revolution: 'EVENT', Iran: 'GPE'}
+{recent years: 'DATE', Kowsar: 'GPE', Zelzal: 'GPE', UAVs: 'ORG'}
+{Fajr-3: 'PRODUCT', Iran: 'GPE'}
+{2006: 'DATE', about 45%: 'PERCENT', 31%: 'PERCENT'}
+{Iran: 'GPE', $70 billion: 'MONEY', 80%: 'PERCENT'}
+{Iranian: 'NORP', more than $84 billion: 'MONEY', 2008: 'DATE'}
+{2010: 'DATE'}
+{5-year: 'DATE'}
+{Iran: 'GPE'}
+{Iran: 'GPE'}
+{years: 'DATE'}
+{}
+{2010: 'DATE', Iran: 'GPE', 69: 'DATE', 139: 'CARDINAL', the Global Competitiveness Report: 'LAW'}
+{Iran: 'GPE', Iranian: 'NORP'}
+{April 2013: 'DATE', US: 'GPE', 36,000: 'CARDINAL', 16,000: 'CARDINAL', early 2012: 'DATE'}
+{2015: 'DATE', Iranian: 'NORP', the Islamic Revolutionary Guard Corps: 'ORG'}
+{Isfahan: 'NORP', Mashhad: 'PERSON', Shiraz: 'PERSON'}
+{the early 2000s: 'DATE'}
+{300,000: 'CARDINAL', 2003: 'DATE', Asian Muslims: 'NORP', Mashhad: 'GPE', Qom: 'PERSON'}
+{Germany: 'GPE', France: 'GPE', European: 'NORP', Iran: 'GPE', annually: 'DATE'}
+{2003: 'DATE', Iran: 'GPE', 68th: 'ORDINAL'}
+{UNESCO: 'ORG', Iran Travel: 'ORG', Tourism Organization (ITTO: 'ORG', Iran: 'GPE', 4th: 'ORDINAL', 10: 'CARDINAL', the Middle East: 'LOC'}
+{Iran: 'GPE'}
+{}
+{Iran: 'GPE', second: 'ORDINAL', Russia: 'GPE', 33.6 trillion cubic metres: 'QUANTITY', third: 'ORDINAL', Indonesia: 'GPE', Russia: 'GPE'}
+{fourth: 'ORDINAL', an estimated 153,600,000,000 barrels: 'QUANTITY'}
+{OPEC: 'ORG', 2nd: 'ORDINAL'}
+{2005: 'DATE', Iran: 'GPE', US$4 billion: 'MONEY'}
+{4 million barrels: 'QUANTITY', 640,000: 'CARDINAL', m3: 'PRODUCT', 2005: 'DATE', six million barrels: 'QUANTITY', 1974: 'DATE'}
+{the early years of the 2000s: 'DATE'}
+{2005: 'DATE'}
+{2004: 'DATE', Iran: 'GPE'}
+{33,000 megawatts: 'QUANTITY'}
+{about 75%: 'PERCENT', 18%: 'PERCENT', 7%: 'PERCENT'}
+{2004: 'DATE', Iran: 'GPE', first: 'ORDINAL', first: 'ORDINAL', 2009: 'DATE'}
+{Iran: 'GPE', third: 'ORDINAL', GTL: 'ORG'}
+{Iranian: 'NORP', Iran: 'GPE'}
+{1960: 'DATE', Ali Javan: 'PERSON', first: 'ORDINAL', Lotfi Zadeh: 'PERSON'}
+{Iranian: 'NORP', Tofy Mussivand: 'PERSON', first: 'ORDINAL'}
+{Samuel Rahbar: 'PERSON'}
+{Iranian: 'NORP', Iran: 'GPE'}
+{Iranian: 'NORP', Kamran Vafa: 'PERSON', Vafa-Witten: 'PERSON', Edward Witten: 'PERSON'}
+{August 2014: 'DATE', Maryam Mirzakhani: 'PERSON', first: 'ORDINAL', first: 'ORDINAL', Iranian: 'NORP', the Fields Medal: 'ORG'}
+{second: 'ORDINAL', Persians: 'NORP', Azerbaijanis: 'ORG', Iranian: 'NORP'}
+{CIA: 'ORG', World Factbook: 'ORG', around 79%: 'PERCENT', Iran: 'GPE', Iranian: 'NORP', Persians: 'NORP', 53%: 'PERCENT', Gilaks and Mazanderanis 7%: 'WORK_OF_ART', Kurds: 'NORP', 10%: 'PERCENT', Lurs: 'ORG', 6%: 'PERCENT', Balochs 2%: 'ORG'}
+{Iran: 'GPE', 22%: 'PERCENT', Azerbaijanis: 'ORG', 16%: 'PERCENT', Arabs: 'NORP', 2%: 'PERCENT', Turkmens: 'PERSON', Turkic: 'ORG', 2%: 'PERCENT', 2%: 'PERCENT', Armenians: 'NORP', Talysh: 'GPE', Georgians: 'NORP', Circassians: 'ORG', Assyrians: 'NORP'}
+{Christianity: 'NORP', Zoroastrianism: 'NORP', Sunni: 'NORP', Islam: 'ORG', the Iranian Parliament: 'ORG'}
+{non-Muslim: 'NORP', Iran: 'GPE', Iran: 'GPE', the 19th century: 'DATE'}
+{the 1979 Revolution: 'EVENT', Bahais: 'GPE'}
+{Iranian: 'NORP', Persepolis: 'GPE', 500: 'CARDINAL', BC: 'ORG'}
+{}
+{Iranian: 'NORP', the Sassanid Era: 'ORG'}
+{Taq Bostan: 'GPE'}
+{}
+{}
+{1960s: 'DATE', Iranian: 'NORP', 25: 'CARDINAL', annually: 'DATE', the early 60s: 'DATE', 65: 'CARDINAL', the end of the decade: 'DATE'}
+{}
+{Kaiser: 'ORG', Masoud Kimiai: 'PERSON', Dariush Mehrjui: 'ORG', 1969: 'DATE'}
+{1954: 'DATE', the Golrizan Festival: 'EVENT', the Sepas Festival: 'EVENT', 1969: 'DATE'}
+{the Tehran World Festival: 'EVENT', 1973: 'DATE'}
+{the Revolution of 1979: 'EVENT', Iranian: 'NORP', Viva: 'ORG', Khosrow Sinai: 'PERSON', Abbas Kiarostami: 'PERSON', Jafar Panahi: 'PERSON'}
+{Kiarostami: 'PERSON', Iranian: 'NORP', Iran: 'GPE', 1997: 'DATE'}
+{Iranian: 'NORP', the Cannes Film Festival: 'LAW', the Venice Film Festival: 'EVENT', the Berlin International Film Festival: 'ORG', Iranian: 'NORP'}
+{2006: 'DATE', six: 'CARDINAL', Iranian: 'NORP', six: 'CARDINAL', Iranian: 'NORP', the Berlin International Film Festival: 'FAC'}
+{Iranian: 'NORP'}
+{Iran: 'GPE', 1993: 'DATE'}
+{2014: 'DATE', around 40%: 'PERCENT', Iran: 'GPE'}
+{Iran: 'GPE', 24th: 'ORDINAL'}
+{Alexa: 'ORG', Yahoo: 'ORG'}
+{Iran: 'GPE'}
+{Over 80%: 'PERCENT', Telegram: 'GPE', Iran: 'GPE'}
+{Instagram: 'ORG', Iran: 'GPE'}
+{Iran: 'GPE', 2009: 'DATE', Iranian: 'NORP', around 12 to 17 million: 'CARDINAL', Iran: 'GPE'}
+{Around 90%: 'PERCENT', Iran: 'GPE', Iranian: 'NORP', Digikala: 'GPE', around 750,000: 'CARDINAL', more than 2.3 million: 'CARDINAL'}
+{Digikala: 'PERSON', the Middle East: 'LOC', 4th: 'ORDINAL', Iran: 'GPE'}
+{Iranian: 'NORP'}
+{}
+{Iranians: 'NORP', Iran: 'GPE'}
+{}
+{}
+{Iran: 'GPE'}
+{Persians: 'NORP', Azerbaijanis: 'ORG', the World Factbook: 'ORG', the Library of Congress: 'ORG'}
+{two: 'CARDINAL'}
+{Azerbaijanis: 'ORG', Iran: 'GPE', between 21.630%: 'PERCENT', Azerbaijanis: 'ORG', Iran: 'GPE'}
+{Iran: 'GPE', the Middle East: 'LOC'}
+{FAO: 'ORG', Iran: 'GPE', five: 'CARDINAL', 2012: 'DATE'}
+{Iranian: 'NORP'}
+{Median: 'NORP', Achaemenid: 'PERSON'}
+{Parthians: 'NORP', Iranian: 'NORP', Hellenistic: 'NORP'}
+{Sassanid: 'PERSON', European: 'NORP', Asian: 'NORP', Islamic: 'NORP', Islamic: 'NORP'}
