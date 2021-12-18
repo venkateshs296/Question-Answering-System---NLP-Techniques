@@ -14,6 +14,7 @@ All the articles are found in the Articles folder
 The list of questions is found in the questions.txt file under the root folder(QANLP folder)
 
 Task 1 -> Run the feature-extraction.py file -> python feature_extraction.py(present in parsing folder)
+
 Task 2 -> Run the QA-pipeline.py file -> python QA-pipeline.py(present in QANLP folder)
           Output file qa-ans.csv file will be generated under the root folder which contains the question, docId, answer sentence
 
